@@ -17,7 +17,7 @@ comprador_complusivo=(consumo>5000)
 
 #output
 print("##############################")
-print("# RESTAURANTE - TIA JULIA")
+print("# RELOJERIA RAMOS")
 print("cliente:",cliente)
 print("##############################")
 print("producto       cantidad   P.U     Total")
